@@ -23,23 +23,23 @@
 
 ## Четвърто упражнение
 - Разбиване на Цезаров шифър с пермутации [caesar_permutations.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/caesar_permutations.c)
-- Разбиване на Цезаров шифър с анализ на честотата
+- Разбиване на Цезаров шифър с анализ на честотата [caesar_permutations.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/caesar_permutations.c)
 
 ## Пето упражнение
-- Шифър на Виженер
-- Разкодиране на шифър на Виженер
+- Шифър на Виженер  [vigenere_encrypt.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/vigenere_encrypt.c)
+- Разкодиране на шифър на Виженер [vigenere_decyrpt.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/vigenere_decyrpt.c)
 
 ## Шесто упражнение
 - Контролна
 
 ## Седмо упражнение
-- Работа с OpenSSL - криптиране с DES
+- Работа с OpenSSL - криптиране с DES [des_encrypt.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/des_encrypt.c)
 
 ## Осмо упражнение
-- Работа с OpenSSL - декриптиране с DES
+- Работа с OpenSSL - декриптиране с DES [des_decrypt.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/des_decrypt.c)
 
 ## Девето упражнение
-- Работа с OpenSSL - генериране на RSA ключ
+- Работа с OpenSSL - генериране на RSA ключ [rsa_generate_keys.c](https://github.com/peshopbs2/UAZ24_KST7_CompSec/blob/main/rsa_generate_keys.c)
 - Работа с OpenSSL - криптиране с RSA
 
 ## Десето упражнение
